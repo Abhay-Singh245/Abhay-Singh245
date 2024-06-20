@@ -44,8 +44,9 @@ payments.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux Toolkit Query" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="Socket.IO" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/@mui/material/umd/material-ui.development.svg" alt="Material-UI" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/npm/@mui/material/umd/material-ui.development.svg" alt="Material-UI" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/chakra-ui/chakra-ui/logo.svg" alt="Chakra UI" width="40" height="40"/>
+
 </p>
 
 ## 📫 How to reach me
