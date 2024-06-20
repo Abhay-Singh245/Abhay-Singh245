@@ -27,6 +27,6 @@ payments.
 
 ## 📫 How to reach me
 - Email: [abhaysinghfzd2004@gmail.com](mailto:abhaysinghfzd2004@gmail.com)
-- LinkedIn: (https://www.linkedin.com/in/abhay-singh-124802255/)](https://www.linkedin.com/in/abhay-singh-124802255/))
+- LinkedIn: ((https://www.linkedin.com/in/abhay-singh-124802255/))
 
 
