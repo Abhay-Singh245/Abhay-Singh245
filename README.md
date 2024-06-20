@@ -18,6 +18,17 @@
 - [Project Alpha](https://github.com/johndoe/projectalpha): A web application that does XYZ.
 - [Beta Project](https://github.com/johndoe/betaproject): A machine learning model for ABC.
 
+## 📈 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-JohnDoe-orange?logo=leetcode&logoColor=white)](https://leetcode.com/johndoe)
+[![Codeforces](https://img.shields.io/badge/Codeforces-JohnDoe-blue?logo=codeforces&logoColor=white)](https://codeforces.com/profile/johndoe)
+[![HackerRank](https://img.shields.io/badge/HackerRank-JohnDoe-brightgreen?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/johndoe)
+[![CodeChef](https://img.shields.io/badge/CodeChef-JohnDoe-brown?logo=codechef&logoColor=white)](https://www.codechef.com/users/johndoe)
+
 ## 📫 How to reach me
 - Email: [john.doe@example.com](mailto:john.doe@example.com)
 - LinkedIn: [John Doe](https://linkedin.com/in/johndoe)
+
+## 🌱 Fun Facts
+- I'm a coffee enthusiast ☕.
+- I love hiking and outdoor adventures 🏞️.
