@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm John Doe!
 
-<!--
-**Abhay-Singh245/Abhay-Singh245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about solving complex problems through competitive programming and building scalable web applications using the MERN stack.
 
-Here are some ideas to get you started:
+![Profile Banner](https://github.com/johndoe/johndoe/raw/main/banner.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills and Technologies
+- **Languages**: JavaScript, Python, C++
+- **Frontend**: React, HTML, CSS
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB, SQL
+
+## 📊 GitHub Stats
+![John Doe's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&theme=radical)
+
+## 🌟 Featured Projects
+- [Project Alpha](https://github.com/johndoe/projectalpha): A web application that does XYZ.
+- [Beta Project](https://github.com/johndoe/betaproject): A machine learning model for ABC.
+
+## 📫 How to reach me
+- Email: [john.doe@example.com](mailto:john.doe@example.com)
+- LinkedIn: [John Doe](https://linkedin.com/in/johndoe)
