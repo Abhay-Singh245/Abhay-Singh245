@@ -21,12 +21,12 @@ payments.
 
 ## 📈 Coding Profiles
 
-[![LeetCode]([https://img.shields.io/badge/LeetCode-FSPINDLE-orange?logo=leetcode&logoColor=white)](https://leetcode.com/johndoe](https://leetcode.com/u/FSPINDLE/))
-[![Codeforces]([https://img.shields.io/badge/Codeforces-245_NIRMAL_veer-blue?logo=codeforces&logoColor=white)](https://codeforces.com/profile/johndoe](https://codeforces.com/profile/245_NIRMAL_veer))
-[![CodeChef]([https://img.shields.io/badge/CodeChef-abhay_singh245-brown?logo=codechef&logoColor=white)](https://www.codechef.com/users/johndoe](https://www.codechef.com/users/abhay_singh245))
+[![LeetCode](https://leetcode.com/u/FSPINDLE/))
+[![Codeforces](https://codeforces.com/profile/245_NIRMAL_veer))
+[![CodeChef]([https://img.shields.io/badge/CodeChef-abhay_singh245-brown?logo=codechef&logoColor=white)](https://www.codechef.com/users/abhay_singh245))
 
 ## 📫 How to reach me
 - Email: [abhaysinghfzd2004@gmail.com](mailto:abhaysinghfzd2004@gmail.com)
-- LinkedIn: [Abhay Singh] ([[https://linkedin.com/in/johndoe](https://www.linkedin.com/in/abhay-singh-124802255/)](https://www.linkedin.com/in/abhay-singh-124802255/))
+- LinkedIn: (https://www.linkedin.com/in/abhay-singh-124802255/)](https://www.linkedin.com/in/abhay-singh-124802255/))
 
 
