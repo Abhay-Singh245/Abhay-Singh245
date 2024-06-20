@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abhay Singh!
 
 🚀 Passionate about solving complex problems through competitive programming and building scalable web applications using the MERN stack.
-
+<img src="https://avatars.githubusercontent.com/u/youruserid?v=4" alt="John Doe" style="width:100px;height:100px;">
 
 ## 🚀 Skills and Technologies
 - **Languages**:  C++ , Javascript
@@ -23,7 +23,7 @@ payments.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FSPINDLE-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/FSPINDLE/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-245_NIRMAL_veer-blue?logo=codeforces&logoColor=white)](https://codeforces.com/profile/245_NIRMAL_veer)
-[![CodeChef]([https://img.shields.io/badge/CodeChef-abhay_singh245-brown?logo=codechef&logoColor=white)](https://www.codechef.com/users/abhay_singh245))
+[![CodeChef](https://img.shields.io/badge/CodeChef-abhay_singh245-brown?logo=codechef&logoColor=white)](https://www.codechef.com/users/abhay_singh245))
 
 ## 📫 How to reach me
 - Email: [abhaysinghfzd2004@gmail.com](mailto:abhaysinghfzd2004@gmail.com)
