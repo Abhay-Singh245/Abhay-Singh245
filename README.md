@@ -25,8 +25,31 @@ payments.
 [![Codeforces](https://img.shields.io/badge/Codeforces-245_NIRMAL_veer-blue?logo=codeforces&logoColor=white)](https://codeforces.com/profile/245_NIRMAL_veer)
 [![CodeChef](https://img.shields.io/badge/CodeChef-abhay_singh245-brown?logo=codechef&logoColor=white)](https://www.codechef.com/users/abhay_singh245)
 
+## Technologies Worked With
+
+### Languages and Frameworks
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+</p>
+
+### Tools and Libraries
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux Toolkit Query" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="Socket.IO" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/@mui/material/umd/material-ui.development.svg" alt="Material-UI" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/chakra-ui/chakra-ui/logo.svg" alt="Chakra UI" width="40" height="40"/>
+</p>
+
 ## 📫 How to reach me
 - Email: [abhaysinghfzd2004@gmail.com](mailto:abhaysinghfzd2004@gmail.com)
-- LinkedIn: ((https://www.linkedin.com/in/abhay-singh-124802255/))
+- LinkedIn: (https://www.linkedin.com/in/abhay-singh-124802255/)
 
 
