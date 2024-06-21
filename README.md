@@ -24,6 +24,8 @@ payments.
 [![LeetCode](https://img.shields.io/badge/LeetCode-FSPINDLE-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/FSPINDLE/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-245_NIRMAL_veer-blue?logo=codeforces&logoColor=white)](https://codeforces.com/profile/245_NIRMAL_veer)
 [![CodeChef](https://img.shields.io/badge/CodeChef-abhay_singh245-brown?logo=codechef&logoColor=white)](https://www.codechef.com/users/abhay_singh245)
+[![AtCoder](https://img.shields.io/badge/AtCoder-abhay_singh245-blue?logo=atcoder&logoColor=white)](https://atcoder.jp/users/Abhay_Singh245)
+
 
 ## Technologies Worked With
 
