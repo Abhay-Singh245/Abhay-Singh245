@@ -17,7 +17,7 @@
 ## 🌟 Featured Projects
 - [** Learn It **](https://github.com/Abhay-Singh245/LearnIt_Frontend): A web application where admin can create courses , upload lectures and view their dashboard and user can buy courses using real time
 payments.
-- [** Crypto App ** ](https://github.com/Abhay-Singh245/My-First-App):A Cryptocurrency App which allows it users to to access real time data of cryptocurrency funds.
+- [** Chat App ** ](https://github.com/Abhay-Singh245/Chat-App):Real-Time Chat Application built with the MERN stack, Redux Toolkit Query, and Socket.io for instant messaging, typing indicators, and online status. Secure, responsive, and feature-rich.
 
 ## 📈 Coding Profiles
 
